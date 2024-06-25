@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechJobsMVCAutograded6", "TechJobsMVCAutograded6.csproj", "{F39AB1BB-8AA5-4A54-B65E-214E8A63D789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutogradingTests", "..\AutogradingTests\AutogradingTests.csproj", "{56498B24-42CE-43BC-929D-BCFD75378A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39AB1BB-8AA5-4A54-B65E-214E8A63D789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39AB1BB-8AA5-4A54-B65E-214E8A63D789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39AB1BB-8AA5-4A54-B65E-214E8A63D789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39AB1BB-8AA5-4A54-B65E-214E8A63D789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56498B24-42CE-43BC-929D-BCFD75378A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56498B24-42CE-43BC-929D-BCFD75378A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56498B24-42CE-43BC-929D-BCFD75378A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56498B24-42CE-43BC-929D-BCFD75378A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D85C48-4311-4AA3-B0E6-07C37C426B95}
+	EndGlobalSection
+EndGlobal
